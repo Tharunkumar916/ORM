@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from Car Inventory Da
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
-![alt text](image-1.png)
+<img width="1028" height="677" alt="Screenshot 2025-09-21 195823" src="https://github.com/user-attachments/assets/7cd8adb3-71cf-4c17-b732-50530fe59695" />
+
 
 ## DESIGN STEPS
 
@@ -57,7 +58,8 @@ class CarAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 Include the screenshot of your admin page.
-![alt text](image.png)
+<img width="1031" height="520" alt="Screenshot 2025-09-21 195945" src="https://github.com/user-attachments/assets/ec8545c4-9e47-4743-9baa-f649792fcf6c" />
+
 
 
 ## RESULT
